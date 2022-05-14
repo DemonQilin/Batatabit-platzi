@@ -1,3 +1,3 @@
 # Batatabit-platzi
 
-Proyecto final de maquetación adaptativa desarrollado en el curso de Responsive Design de Platzi.
+Final project of responsive layout developed in the Responsive Design course at Platzi.
